@@ -2,7 +2,7 @@
 
  
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently studying in spmvv 2nd year ece
 - 🌱 I’m currently learning GitHub and aws
